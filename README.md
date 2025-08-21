@@ -1,138 +1,86 @@
-# 🌌 Voidstrap: A Next-Gen Bloxstrap Fork
+# 🩸 PulseX  
 
-**Voidstrap** is a modern and feature-rich fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to elevate your **Roblox** experience. With a refined interface, enhanced stability, and powerful features, Voidstrap gives you full control over how you play.
+**PulseX** is a high-performance fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) — and a FAN-MADE continuation of [Voidstrap](https://github.com/midaskira/Voidstrap).  
+It’s designed to give you a faster, more stable, and more customizable Roblox launcher experience.  
 
 <p align="center">
-  <img src="https://github.com/voidstrap/Voidstrap/blob/main/Images/Voidstrap.png" alt="Voidstrap Logo">
+  <img src="https://github.com/twodieforthem/PulseX/blob/main/Images/PulseX.png" alt="PulseX Logo" width="320">
 </p>
 
-<p align="center"><strong>⭐ Like Voidstrap? Star the repo and help it grow!</strong></p>
-
-> ⚠️ **CAUTION**  
-> Voidstrap is now discontinued.  
-> My team and I have been working on a replacement for the past 3 months — **Plexity**,  
-> a non-Bloxstrap fork.  
->  
-> Check it out here: [Plexity on GitHub](https://github.com/KloBraticc/Plexity)
+<p align="center"><strong>⭐ Like PulseX? Star the repo and support development!</strong></p>
 
 ---
 
-## 🚀 Quick Links
+## ⚡ Key Highlights
 
-<p align="center">
-  <a href="https://github.com/midaskira/Voidstrap/releases">
-    <img src="https://img.shields.io/github/downloads/midaskira/Voidstrap/total?color=981bfe&label=Downloads" alt="Downloads">
-  </a>
-  <a href="https://github.com/midaskira/Voidstrap/releases">
-    <img src="https://img.shields.io/github/v/release/midaskira/Voidstrap?color=7a39fb&label=Latest" alt="Latest Release">
-  </a>
-  <a href="https://github.com/midaskira/Voidstrap/stargazers">
-    <img src="https://img.shields.io/github/stars/midaskira/Voidstrap?color=FFD700&label=Stars" alt="Stars">
-  </a>
-  <a href="https://discord.gg/wdmYT9WKTX">
-    <img src="https://img.shields.io/discord/1368499843084845076?logo=discord&logoColor=white&label=Discord&color=4d3dff" alt="Join Discord">
-  </a>
-  <a href="https://www.virustotal.com/gui/file/a19d94eaed61dfa779610f1271a9379f2dae45d876e45564cd324b69c07e9a29">
-    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140" alt="Virus Free">
-  </a>
-</p>
-
----
-
-## ✨ Why Use Voidstrap?
-
-- ⚡ **Faster & Lighter** – Slimmed-down, tuned-up, and blazing fast.
-  
-- 🌀 **Multi-Instance Support** – Run multiple Roblox clients at once.
-  
-- 🌐 **Cross-Game Teleport** – No more Error 773 game switching.
-  
-- 🔧 **Channel Control** – Full access to Roblox's internal channel system.
-  
-- 🎨 **Customizable UI** – Modern themes, refined layout, and icon tweaks.
-  
-- 🚫 **Update Bypass** – Take control of forced Roblox updates.
-  
-- 🧠 **Stable & Smart** – Polished handling and fewer random errors.
+- ⚡ **Performance First** – Lightweight, optimized, and responsive.  
+- 🩸 **Successor to Voidstrap** – Continuing with stability and active updates.  
+- 🌀 **Multi-Instance Support** – Run multiple Roblox clients at once.  
+- 🌐 **Seamless Game Switching** – Improved transitions between games.  
+- 🔧 **Channel Management** – Choose how your Roblox client updates.  
+- 🎨 **Customizable UI** – Dark, crimson, and modern themes.  
+- 📈 **Optimized Resource Usage** – Smarter CPU and memory handling.  
 
 ---
 
 ## 📥 Installation
 
-1. **Download:** Get the latest release from the [Releases page](https://github.com/midaskira/Voidstrap/releases).
-2. **Install:** Open the installer and follow the setup.
-3. **Launch:** Experience Roblox like never before!
+1. Download the latest release from the Releases page.  
+2. Run the installer and follow the setup.  
+3. Launch Roblox through PulseX.  
 
 ---
 
-## 🧩 Features Breakdown
+## 🧩 Feature Overview
 
 ### 🔄 Integrations
-- **Player & Message Logs** – Track actions for moderation or debugging.
-- **Hardware Acceleration** – Disables Hardware Acceleration and UI animations
-- **Launch Roblox Studio** – Launch Studio via Voidstrap or shortcut
-- **AI Chat (BETA)** - Chat with a AI that only talks FFlags.
-- **Hub Page** – Get Themes, Mods, and FFlags from others
-- **Voidstrap Discord RPC** – Shows that you're using Voidstrap on Discord (can be disabled)
-- **Cross Game Teleport** - (Fixes Error 773)
-- **App CPU Limiter** - Limits the amount of CPU cores that Voidstrap Uses
+- **Player & Message Logs** – Useful for debugging and review.  
+- **Hardware Acceleration Options** – Control animations and rendering.  
+- **Roblox Studio Launching** – Start Studio directly from PulseX.  
+- **Hub Page** – Discover community themes, extensions, and FFlags.  
+- **Discord Rich Presence** – Show your current Roblox activity (optional).  
+- **CPU Usage Control** – Adjust how PulseX uses system resources.  
 
 ### ⚙️ Fast Flags
-- **Settings Backup** – Save and restore your custom config.
-- **Over 800+ FFlags in one place**
-- **Easy flag backups & restoration**
-- **FFlag History**
-- **Customizable Roblox menus**
-- **Remove Splash Warnings** – Skip unnecessary Roblox warnings.
+- **800+ FFlags Available** – Easy access to Roblox settings.  
+- **Backup & Restore** – Save and reload your configurations.  
+- **FFlag History** – Track changes and roll back if needed.  
+- **Customizable Menus** – Tailor Roblox menus to your liking.  
+- **Skip Splash Warnings** – Jump straight into the client.  
 
-### 📡 Channel Management
-- **Prevent Forced Updates** – Stay on your terms.
-- **Channel Switcher** – Fine-tune your Roblox environment.
+### 📡 Channel Control
+- **Flexible Update Management** – Stay on your chosen version.  
+- **Channel Switcher** – Select different Roblox release tracks.  
 
-### 🚀 Bootstrap Enhancements
-- **Multiple Instance Booting** – Great for developers and alt accounts.
-- **Theme Preview Mode** – See changes before applying
-- **Robust Error Management** – Stability first.
-- **Persistent Uninstall Settings** – Keeps your data intact.
+### 🎨 UI & Themes
+- **Live Theme Switching** – Preview and apply instantly.  
+- **10+ Pre-made Themes** – Including crimson and dark options.  
+- **Custom Icons & Layouts** – Modern and sleek visuals.  
+- **Cursor Selection** – Choose from multiple cursor styles.  
 
-### 🎨 UI & Theming
-- **Live Theme Switching** – Customize on the go.
-- **Tailored themes** - for a personalized launcher
-- **Over 10+ Themes** - to select from
-- **Icon & Layout Tweaks** – Sleek and modern.
-- **Over 7+ Different Mouse Cursors to choose**
-
-### 🧠 Smart Utilities
-- **Session Memory** – Picks up where you left off.
-- **Log Cleaner** - Cleans all old log files to free space.
-- **Auto-Update Control** – Disable updates when needed.
+### 🧠 Utilities
+- **Session Memory** – Resume where you left off.  
+- **Log Cleaner** – Free up space by clearing old logs.  
+- **Update Controls** – Decide when to apply Roblox updates.  
 
 ---
 
-## 🤝 Community & Support
+## 🤝 Community
 
-- 💬 **Join our Discord:** [Voidstrap Server](https://discord.gg/JkUPqtS7QR) for help, news, and chat.
-- 🐞 **Found a bug or have an idea?** Use our [Issues tab](https://github.com/midaskira/Voidstrap/issues).
-- ⭐ **Star the repo:** Show your support!
+- 💬 **Discord:** SOON
+- 🐞 **Report Issues:** [Issues Page](https://github.com/ego-death-mod/PulseX/issues)  
+- ⭐ **Star the Repo:** Help support development!  
 
 ---
 
 ## 🙌 Credits
 
-### 👨‍💻 Core Team
-- **Bratic** – Owner · [GitHub](https://github.com/nobadboy)
-- **midaskira** – Co-Owner · [GitHub](https://github.com/midaskira)
+- **Senko** – Maintainer / Lead Developer  
+- **midaskira** – Legacy Lead (Voidstrap)  
+- **Bratic** – Contributor  
 
-### 🧪 Contributors
-- [stoof](https://github.com/stoofis)
-- [Flemish](https://github.com/LeventGameing)
-- [DynamicFF](https://github.com/DynamicFastFlag)
-- [TnoobixRT](https://github.com/TnoobixRT)
-
-### 💡 Inspirations
-- [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
-- [](https://github.com//)
+Inspired by [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) & [Voidstrap](https://github.com/midaskira/Voidstrap).  
 
 ---
 
-*Thanks for choosing Voidstrap. Happy gaming! 🎮*
+*PulseX — the continuation of Voidstrap, built for performance and customization.* 🩸⚡
